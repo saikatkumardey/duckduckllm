@@ -12,13 +12,17 @@ For v0, we simply pass the title and the body of the top-3 articles to the LLM.
 
 - Python 3.10+
 - Poetry
+- [LM Studio](https://lmstudio.ai/)
 
 ## Installation
 
-```bash
-poetry shell
-poetry install
-```
+- Download model: You could use any model you want. For this app, I am using openhermes-2.5-mistral-7b.Q5_K_M.gguf.
+- Start LM Studio Server (OpenAI-compatible API)
+- Run streamlit app
+    ```bash
+    poetry shell
+    poetry install
+    ```
 
 ## Usage
 
