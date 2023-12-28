@@ -10,7 +10,7 @@ For v0, we simply pass the title and the body of the top-3 articles to the LLM.
 
 ## Dependencies
 
-- Python 3.10+
+- Python 3.11+
 - Poetry
 - [LM Studio](https://lmstudio.ai/)
 

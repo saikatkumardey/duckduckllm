@@ -8,11 +8,8 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.11"
 duckduckgo-search = "^4.1.0"
-gradio = "^4.10.0"
-setuptools = "^69.0.2"
 streamlit = "^1.29.0"
 streamlit-searchbox = "^0.1.6"
-streamlit-keyup = "^0.2.2"
 streamlit-card = "^1.0.0"
 openai = "^1.6.1"
 
